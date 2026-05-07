@@ -1,0 +1,8 @@
+MediCare/target/
+MediCare/build/
+MediCare/.settings/
+MediCare/.classpath
+MediCare/.project
+*.class
+*.log
+~$*
